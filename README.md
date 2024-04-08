@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishita Patoliya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [Ride share (SGP)](https://github.com/ISHITA-PATOLIYA792/SGP.git)
-
 - 🌱 I’m currently learning **MERN Stack (Nodejs, Express, MongoDB, React)**
 
 - 👨‍💻 All of my projects are available at [https://ishita-patoliya792.github.io/](https://ishita-patoliya792.github.io/)
