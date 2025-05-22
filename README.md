@@ -20,18 +20,18 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemildesai0910&theme=transparent&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishita-patoliya792&theme=transparent&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemildesai0910&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemildesai0910&theme=transparent&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemildesai0910&theme=transparent&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishita-patoliya792&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-patoliya792&theme=transparent&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-patoliya792&theme=transparent&hide_border=false&layout=compact" />
 </div>
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemil-desai-71a711255/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemildesai0910)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemildesai98@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hemil_Desai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitapatoliya/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ishita-patoliya792.github)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitapatoliya36@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ishita_123p/)
