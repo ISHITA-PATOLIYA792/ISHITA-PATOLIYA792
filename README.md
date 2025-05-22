@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,, I'm Ishita Patoliya
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ishita Patoliya
 
 ## 💫 About Me
 I'm a dedicated Information Technology student at **CHARUSAT University**, currently in my 3rd year with a **CGPA of 9.18/10**. I have a strong interest in AI/ML, databases, and full-stack development.
@@ -43,6 +43,6 @@ I'm a dedicated Information Technology student at **CHARUSAT University**, curre
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitapatoliya/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ishita-patoliya792.github)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://ishita-patoliya792.github](https://github.com/ISHITA-PATOLIYA792/))
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitapatoliya36@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ishita_123p/)
